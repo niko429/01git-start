@@ -17,9 +17,6 @@ index 0000000..1eaab10
 --- /dev/null
 +++ b/hello.py
 @@ -0,0 +1 @@
-+print("Hello Git!")
-\ No newline at end of file
-
 
 
 ## Technologie
